@@ -1,5 +1,3 @@
-# 💫 About Me:
-I'm Currently working Coldheart which is a e-commerce webpage. 
 
 
 ## 🌐 Socials:
