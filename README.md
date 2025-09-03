@@ -1,4 +1,4 @@
-<div align="center">
+    <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanya%20Panchal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
@@ -38,3 +38,61 @@ graph TD
     style C fill:#10b981,stroke:#059669,stroke-width:2px,color:#fff
     style D fill:#f59e0b,stroke:#d97706,stroke-width:2px,color:#fff
     style E fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#fff
+
+
+React/Next.js    ████████████████████ 95%
+TypeScript       ███████████████████░ 90%
+TailwindCSS      ████████████████████ 95%
+Three.js         ██████████████░░░░░░ 70%
+
+
+React Native     ████████████████░░░░ 80%
+
+
+Node.js          ████████████████████ 95%
+Python           ██████████████████░░ 85%
+MongoDB          ████████████████████ 90%
+Redis            ███████████████░░░░░ 75%
+
+
+Git/GitHub       ████████████████████ 95%
+Docker           ██████████████░░░░░░ 70%
+Vercel/Netlify   ████████████████████ 90%
+Figma            ███████████████████░ 85%
+📈 Coding Journey
+Activity Graph
+
+⚡ GitHub Analytics
+  
+🚀 Featured Projects
+🚗 HerRides
+HerRides
+Full-stack ride sharing application with real-time tracking
+
+💼 Portfolio
+Portfolio
+Interactive portfolio showcasing my development journey
+
+🛠️ Technology Stack
+
+🌐 Let's Connect
+  
+🏆 Achievements
+Trophies
+
+💭 Daily Inspiration
+Quote
+
+
+"Building the future, one commit at a time" 🚀
+
+
+
+```
+
+
+@Pin Context
+Active file
+
+
+
