@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=tanupanchal26&style=for-the-badge&color=6366f1&label=Profile+Views"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanya%20Panchal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
@@ -171,6 +172,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-<img src="https://komarev.com/ghpvc/?username=tanupanchal26&style=for-the-badge&color=6366f1&label=Profile+Views"/>
+
 
 </div>
