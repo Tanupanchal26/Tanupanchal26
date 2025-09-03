@@ -133,7 +133,7 @@
 </td>
 <td width="50%">
 <h3>💼 Portfolio</h3>
-<a href="https://github.com/tanupanchal26/portfolio" target="_blank">
+<a href="https://tanucodes.netlify.com" target="_blank">
 <img src="https://img.shields.io/badge/Personal_Portfolio-4ECDC4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
 <p>Interactive portfolio showcasing my development journey</p>
