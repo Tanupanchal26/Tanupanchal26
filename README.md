@@ -5,12 +5,12 @@
 
 </div>
 
-<!-- Enhanced Typing Effect with More Animations -->
+<!-- Enhanced Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=120&lines=Hi+%F0%9F%91%8B+I'm+Tanya+Panchal+%F0%9F%92%9C;Full+Stack+Developer+%F0%9F%9A%80+%7C+Creative+Coder+%E2%9C%A8;React+Expert+%E2%9A%9B%EF%B8%8F+%7C+Node.js+Ninja+%E2%9A%A1;TypeScript+Enthusiast+%F0%9F%92%99+%7C+UI%2FUX+Lover+%F0%9F%8E%A8;Building+Amazing+Web+Experiences+%F0%9F%8C%9F;Turning+Coffee+%E2%98%95+into+Code+%F0%9F%92%BB;Let's+Create+Something+Awesome!+%F0%9F%9A%80%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<!-- Enhanced Profile Stats Bar with More Badges -->
+<!-- Profile Stats Bar -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanupanchal26&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/tanupanchal26?label=Followers&style=for-the-badge&color=blue" alt="followers" />
@@ -22,21 +22,21 @@
 
 <br/>
 
-<!-- Enhanced Animated Developer Section with Female Dev GIF -->
+<!-- About Me Section -->
 <table align="center">
 <tr>
 <td width="50%" align="center">
   
-  <!-- Female Developer Coding Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-143a1d7b-7ac8-43d1-97f7-834152d7c5f5.gif" width="100%"/>
+  <!-- Female Developer Animation -->
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
   
   <br/><br/>
   
-  <!-- Additional Animated Elements -->
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
+  <!-- Additional Tech Icons -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="80">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="80">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="80">
   
 </td>
 <td width="50%">
@@ -87,25 +87,25 @@ const tanya = {
 <table align="center">
 <tr>
 <td width="33%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="100">
   <br/><br/>
   <strong>🔭 Currently Working On</strong>
   <br/><br/>
-  Full-stack projects with React ,Node.js and next.js
+  Full-stack projects with React, Node.js and Next.js
 </td>
 <td width="33%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="100">
   <br/><br/>
   <strong>🌱 Currently Learning</strong>
   <br/><br/>
-Next.js & Data and File structure
+  Next.js & Data and File structure
 </td>
 <td width="33%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="100">
   <br/><br/>
   <strong>💬 Ask Me About</strong>
   <br/><br/>
-  React, Node.js, MERN , Web Dev ,Next.js , Full-stack
+  React, Node.js, MERN, Web Dev, Next.js, Full-stack
 </td>
 </tr>
 </table>
@@ -115,7 +115,7 @@ Next.js & Data and File structure
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Tech Stack Section with Enhanced Layout -->
+<!-- Tech Stack Section -->
 ## 💻 Tech Stack & Tools
 
 ### 🎨 Frontend Development
@@ -176,7 +176,7 @@ Next.js & Data and File structure
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GitHub Stats with Enhanced Design -->
+<!-- GitHub Stats -->
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -189,11 +189,6 @@ Next.js & Data and File structure
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanupanchal26&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true" />
 </p>
 
-<!-- GitHub Contribution Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tanupanchal26&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
@@ -202,7 +197,7 @@ Next.js & Data and File structure
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Featured Projects Section with Enhanced Design -->
+<!-- Featured Projects -->
 ## 🎯 Featured Projects
 
 <div align="center">
@@ -214,7 +209,7 @@ Next.js & Data and File structure
 
 ### 🚗 **HerRides - Women's Ride Sharing Platform**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" width="200">
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tanupanchal26/herrides)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
@@ -242,7 +237,7 @@ Next.js & Data and File structure
 
 ### 💼 **Personal Portfolio**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="200">
 
 [![Live](https://img.shields.io/badge/Live-Demo-4ECDC4?style=for-the-badge&logo=vercel)](https://tanucodes.netlify.app)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
@@ -273,17 +268,7 @@ Next.js & Data and File structure
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Coding Stats -->
-## 📈 Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tanupanchal26&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Wakatime Stats" />
-</p>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Connect Section with Enhanced Icons -->
+<!-- Connect Section -->
 ## 🤝 Let's Connect & Collaborate!
 
 <p align="center">
@@ -314,10 +299,11 @@ Next.js & Data and File structure
 
 <!-- Animated Footer GIF -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
 
-<!-- Quote with Animation -->
+<!-- Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
@@ -331,17 +317,18 @@ Next.js & Data and File structure
   </a>
 </p>
 
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,20,6,11&height=150&section=footer" />
 </p>
 
-<!-- Enhanced Footer with More Animations -->
+<!-- Footer Message -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Thanks+for+visiting!+%E2%AD%90+Star+some+repos+if+you+like+them!+%E2%9C%A8;%F0%9F%92%BB+Open+to+collaboration+and+new+opportunities!+%F0%9F%9A%80;%F0%9F%8C%9F+Let's+build+something+amazing+together!+%F0%9F%8C%9F;%F0%9F%92%9C+Always+learning%2C+always+growing!+%F0%9F%92%9C;%E2%98%95+Powered+by+coffee+and+creativity!+%E2%98%95" />
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="250">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="150">
 </div>
 
 ---
