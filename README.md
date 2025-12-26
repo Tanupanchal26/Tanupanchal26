@@ -12,8 +12,8 @@
 
 <!-- Profile Stats Bar -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanupanchal26&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/tanupanchal26?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Tanupanchal26&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Tanupanchal26?label=Followers&style=for-the-badge&color=blue" alt="followers" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="focus" />
   <img src="https://img.shields.io/badge/Lives-India%20%F0%9F%87%AE%F0%9F%87%B3-success?style=for-the-badge" alt="location" />
   <img src="https://img.shields.io/badge/Languages-6%2B-orange?style=for-the-badge" alt="languages" />
@@ -179,20 +179,102 @@ const tanya = {
 <!-- GitHub Stats -->
 ## 📊 GitHub Analytics
 
+<div align="center">
+  
+### 📈 **Overall Statistics**
+
+</div>
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanupanchal26&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanupanchal26&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tanupanchal26&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanupanchal26&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</p>
+
+<div align="center">
+  
+### 💻 **Most Used Languages**
+
+</div>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanupanchal26&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanupanchal26&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Language Distribution" />
+</p>
+
+<div align="center">
+  
+### 📊 **Contribution Graph**
+
+</div>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanupanchal26&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</p>
+
+<div align="center">
+  
+### 🏆 **GitHub Achievements**
+
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanupanchal26&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
+</p>
+
+<div align="center">
+  
+### 📌 **Profile Summary**
+
+</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanupanchal26&theme=radical" alt="Profile Summary" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanupanchal26&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanupanchal26&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanupanchal26&theme=radical" alt="Repos per Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanupanchal26&theme=radical" alt="Most Commit Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanupanchal26&theme=radical&utcOffset=5.5" alt="Productive Time" />
 </p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanupanchal26&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</p>
+<div align="center">
+  
+### 🌟 **Key Metrics**
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="50"/>
+  <br/>
+  <strong>Total Stars</strong>
+  <br/>
+  <img src="https://img.shields.io/github/stars/Tanupanchal26?style=social" alt="stars"/>
+</td>
+<td align="center" width="25%">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" width="50"/>
+  <br/>
+  <strong>Public Repos</strong>
+  <br/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=&query=public_repos&url=https://api.github.com/users/Tanupanchal26&style=social&logo=github" alt="repos"/>
+</td>
+<td align="center" width="25%">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" width="50"/>
+  <br/>
+  <strong>Followers</strong>
+  <br/>
+  <img src="https://img.shields.io/github/followers/Tanupanchal26?style=social" alt="followers"/>
+</td>
+<td align="center" width="25%">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width="50"/>
+  <br/>
+  <strong>Following</strong>
+  <br/>
+  <img src="https://img.shields.io/github/following/Tanupanchal26?style=social" alt="following"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -211,9 +293,9 @@ const tanya = {
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" width="200">
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/tanupanchal26/herrides)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Tanupanchal26/herrides)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/tanupanchal26/herrides?style=for-the-badge&color=yellow)
+![Stars](https://img.shields.io/github/stars/Tanupanchal26/herrides?style=for-the-badge&color=yellow)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
@@ -278,7 +360,7 @@ const tanya = {
   <a href="mailto:tanyapancha65@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/tanupanchal26">
+  <a href="https://github.com/Tanupanchal26">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://tanucodes.netlify.app">
@@ -347,4 +429,4 @@ const tanya = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-</div>
+</div>>
