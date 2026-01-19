@@ -1,184 +1,161 @@
 <div align="center">
 
-# 👋 Hi, I'm Tanya Panchal
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Animation"/>
 
-### Full Stack Developer | Building Beautiful Web Applications
+# 𝐇𝐢, 𝐈'𝐦 𝐓𝐚𝐧𝐲𝐚 𝐏𝐚𝐧𝐜𝐡𝐚𝐥 👋
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Woman Coding GIF"/>
+### 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝙱𝚎𝚊𝚞𝚝𝚒𝚏𝚞𝚕 𝚆𝚎𝚋 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FF5722?style=flat-square)](https://tanucodes.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:tanyapancha65@gmail.com)
+<p>
+  <a href="https://tanucodes.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-FF6B6B?style=for-the-badge&labelColor=1a1a2e"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=1a1a2e"/></a>
+  <a href="mailto:tanyapancha65@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&labelColor=1a1a2e"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Tanupanchal26&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 𝟎𝟏 | 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
-```javascript
-const tanya = {
-  location: "India 🇮🇳",
-  role: "Full Stack Developer",
-  
-  languages: ["JavaScript", "TypeScript", "Python", "C++", "SQL"],
-  
-  technologies: {
-    frontend: ["React", "Next.js", "Redux", "TailwindCSS", "SASS"],
-    backend: ["Node.js", "Express", "FastAPI", "Django"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    mobile: ["React Native"],
-    tools: ["Docker", "Git", "Figma", "VS Code"]
-  },
-  
-  currentFocus: "Building scalable full-stack applications",
-  learning: "Cloud Architecture & System Design",
-  
-  contact: "tanyapancha65@gmail.com"
-};
+𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊 🇮🇳 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜
+
+```yaml
+Current Focus: Building full-stack projects with React, Node.js, and Next.js
+Learning: Cloud Architecture & System Design
+Expertise: React • Node.js • MERN Stack • Web Development
+Contact: tanyapancha65@gmail.com
 ```
 
-**🔭 Currently working on:** Full-stack projects with React, Node.js, and Next.js  
-**🌱 Currently learning:** Next.js, Cloud Architecture & Microservices  
-**💬 Ask me about:** React, Node.js, MERN Stack, Web Development  
-**📫 Reach me at:** tanyapancha65@gmail.com
-
 ---
 
-## 🛠️ Tech Stack
-
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Tools & DevOps:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
+## 𝟎𝟐 | 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
 <div align="center">
 
-### 📈 Overall Stats
+### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a2e)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a2e)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=1a1a2e)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanupanchal26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanupanchal26&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+### 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1a1a2e)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=1a1a2e)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1a2e)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=1a1a2e)
 
-### 🔥 Contribution Streak
+### 𝙱𝚊𝚌𝚔𝚎𝚗𝚍
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a2e)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a2e)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a2e)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1a2e)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tanupanchal26&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+### 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a2e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a2e)
 
-### 📊 Contribution Graph
-
-[![Tanya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanupanchal26&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tanupanchal26&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📌 Profile Summary
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanupanchal26&theme=tokyonight)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanupanchal26&theme=tokyonight" width="400"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanupanchal26&theme=tokyonight" width="400"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanupanchal26&theme=tokyonight" width="400"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanupanchal26&theme=tokyonight" width="400"/>
+### 𝚃𝚘𝚘𝚕𝚜 & 𝙳𝚎𝚟𝙾𝚙𝚜
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1a1a2e)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1a2e)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a2e)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🚗 [HerRides - Women's Ride Sharing Platform](https://github.com/Tanupanchal26/herrides)
-
-A safe and secure ride-sharing platform designed exclusively for women, prioritizing safety and community.
-
-**Features:**
-- Real-time GPS tracking and route optimization
-- Secure payment gateway integration
-- User authentication and authorization
-- Real-time notifications with Socket.io
-- Women-focused safety features
-- Rating and review system
-
-**Tech Stack:** React • Node.js • Express • MongoDB • Socket.io • Google Maps API
-
----
-
-### 💼 [Personal Portfolio](https://tanucodes.netlify.app)
-
-A modern portfolio website showcasing my projects, skills, and professional journey.
-
-**Features:**
-- Modern and minimalist design
-- Smooth animations with Framer Motion
-- Dark/Light mode support
-- Project showcase with live demos
-- Contact form integration
-- Fully responsive design
-
-**Tech Stack:** React • TailwindCSS • Framer Motion • Netlify
-
----
-
-## 🤝 Connect With Me
+## 𝟎𝟑 | 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬 (𝟐𝟎𝟐𝟔)
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tanucodes.netlify.app-FF5722?style=for-the-badge)](https://tanucodes.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-tanyapancha65@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanyapancha65@gmail.com)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanupanchal26&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak"/>
 
-I'm always open to interesting conversations and collaboration opportunities!
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanupanchal26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=8" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Tanupanchal26&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)
+
+### 📊 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanupanchal26&bg_color=0D1117&color=7C3AED&line=FF6B6B&point=FFFFFF&area=true&hide_border=true)
+
+### 📈 𝐃𝐞𝐭𝐚𝐢𝐥𝐞𝐝 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanupanchal26&theme=tokyonight)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanupanchal26&theme=tokyonight" width="49.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanupanchal26&theme=tokyonight" width="49.5%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanupanchal26&theme=tokyonight" width="49.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanupanchal26&theme=tokyonight&utcOffset=5.5" width="49.5%"/>
 
 </div>
 
 ---
 
-## 💖 Support
-
-If you find my work helpful, consider supporting me:
+## 𝟎𝟒 | 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+### 🚗 [**𝙷𝚎𝚛𝚁𝚒𝚍𝚎𝚜 - 𝚆𝚘𝚖𝚎𝚗'𝚜 𝚁𝚒𝚍𝚎 𝚂𝚑𝚊𝚛𝚒𝚗𝚐 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖**](https://github.com/Tanupanchal26/herrides)
+
+*𝘈 𝘴𝘢𝘧𝘦 𝘢𝘯𝘥 𝘴𝘦𝘤𝘶𝘳𝘦 𝘳𝘪𝘥𝘦-𝘴𝘩𝘢𝘳𝘪𝘯𝘨 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮 𝘥𝘦𝘴𝘪𝘨𝘯𝘦𝘥 𝘦𝘹𝘤𝘭𝘶𝘴𝘪𝘷𝘦𝘭𝘺 𝘧𝘰𝘳 𝘸𝘰𝘮𝘦𝘯*
+
+**𝙺𝚎𝚢 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜:** Real-time GPS Tracking • Secure Payments • Socket.io Notifications • Safety Features • Rating System
+
+**𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔:** `React` `Node.js` `Express` `MongoDB` `Socket.io` `Google Maps API`
+
+<a href="https://github.com/Tanupanchal26/herrides"><img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+
+---
+
+### 💼 [**𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘**](https://tanucodes.netlify.app)
+
+*𝘔𝘰𝘥𝘦𝘳𝘯 𝘱𝘰𝘳𝘵𝘧𝘰𝘭𝘪𝘰 𝘸𝘦𝘣𝘴𝘪𝘵𝘦 𝘴𝘩𝘰𝘸𝘤𝘢𝘴𝘪𝘯𝘨 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘢𝘯𝘥 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭 𝘫𝘰𝘶𝘳𝘯𝘦𝘺*
+
+**𝙺𝚎𝚢 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜:** Framer Motion Animations • Dark/Light Mode • Responsive Design • Live Project Demos
+
+**𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔:** `React` `TailwindCSS` `Framer Motion` `Netlify`
+
+<a href="https://tanucodes.netlify.app"><img src="https://img.shields.io/badge/Visit_Site-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a2e"/></a>
 
 </div>
 
 ---
 
+## 𝟎𝟓 | 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞
+
 <div align="center">
 
-### *"Building the future, one commit at a time"* 🚀
+𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚏𝚘𝚛 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗, 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜, 𝚘𝚛 𝚝𝚎𝚌𝚑 𝚍𝚒𝚜𝚌𝚞𝚜𝚜𝚒𝚘𝚗𝚜!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tanupanchal26&color=blueviolet&style=flat-square)
+<br/>
+
+<a href="https://tanucodes.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-FF6B6B?style=for-the-badge&labelColor=1a1a2e"/></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=1a1a2e"/></a>
+<a href="mailto:tanyapancha65@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Send-EA4335?style=for-the-badge&labelColor=1a1a2e"/></a>
+
+<br/><br/>
+
+### *"𝘽𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙩𝙝𝙚 𝙛𝙪𝙩𝙪𝙧𝙚, 𝙤𝙣𝙚 𝙘𝙤𝙢𝙢𝙞𝙩 𝙖𝙩 𝙖 𝙩𝙞𝙢𝙚"* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
