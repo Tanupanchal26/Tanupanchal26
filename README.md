@@ -76,35 +76,53 @@ Contact: tanyapancha65@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanupanchal26&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak"/>
+### 📅 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐂𝐚𝐥𝐞𝐧𝐝𝐚𝐫
 
-<br/>
+**2026 Contributions**
+<a href="https://github.com/Tanupanchal26">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanupanchal26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=FF6B6B&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="2026 GitHub Stats" width="100%">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanupanchal26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=8" height="180"/>
+**2025 Contributions**
+<a href="https://github.com/Tanupanchal26">
+  <img src="https://ghchart.rshah.org/7C3AED/Tanupanchal26" alt="2025 Contribution Calendar" width="100%">
+</a>
+
+### 📊 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡
+
+<a href="https://github.com/Tanupanchal26">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanupanchal26&bg_color=0D1117&color=7C3AED&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%">
+</a>
+
+### 📈 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬
+
+<a href="https://github.com/Tanupanchal26">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanupanchal26&theme=tokyonight" alt="Profile Details" width="100%">
+</a>
+
+<p align="center">
+  <a href="https://github.com/Tanupanchal26">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanupanchal26&theme=tokyonight" alt="Repos per Language" width="49%">
+  </a>
+  <a href="https://github.com/Tanupanchal26">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanupanchal26&theme=tokyonight" alt="Most Commit Language" width="49%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Tanupanchal26">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanupanchal26&theme=tokyonight" alt="Stats" width="49%">
+  </a>
+  <a href="https://github.com/Tanupanchal26">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanupanchal26&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="49%">
+  </a>
+</p>
 
 </div>
 
 <br/>
 
 <div align="center">
-
-### 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Tanupanchal26&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)
-
-### 📊 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanupanchal26&bg_color=0D1117&color=7C3AED&line=FF6B6B&point=FFFFFF&area=true&hide_border=true)
-
-### 📈 𝐃𝐞𝐭𝐚𝐢𝐥𝐞𝐝 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanupanchal26&theme=tokyonight)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanupanchal26&theme=tokyonight" width="49.5%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanupanchal26&theme=tokyonight" width="49.5%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanupanchal26&theme=tokyonight" width="49.5%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanupanchal26&theme=tokyonight&utcOffset=5.5" width="49.5%"/>
 
 </div>
 
