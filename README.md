@@ -76,17 +76,7 @@ Contact: tanyapancha65@gmail.com
 
 <div align="center">
 
-### 📅 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐂𝐚𝐥𝐞𝐧𝐝𝐚𝐫
 
-**2026 Contributions**
-<a href="https://github.com/Tanupanchal26">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanupanchal26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=FF6B6B&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="2026 GitHub Stats" width="100%">
-</a>
-
-**2025 Contributions**
-<a href="https://github.com/Tanupanchal26">
-  <img src="https://ghchart.rshah.org/7C3AED/Tanupanchal26" alt="2025 Contribution Calendar" width="100%">
-</a>
 
 ### 📊 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡
 
