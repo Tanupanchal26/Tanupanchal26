@@ -76,13 +76,34 @@ Contact: tanyapancha65@gmail.com
 
 <div align="center">
 
+### 🟣 𝐏𝐚𝐜𝐦𝐚𝐧 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanupanchal26/Tanupanchal26/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanupanchal26/Tanupanchal26/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tanupanchal26/Tanupanchal26/output/pacman-contribution-graph.svg">
+</picture>
+
+<br/>
 
 ### 📊 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡
 
 <a href="https://github.com/Tanupanchal26">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanupanchal26&bg_color=0D1117&color=7C3AED&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%">
 </a>
+
+<br/>
+
+### 📈 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭u𝐬
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tanupanchal26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanupanchal26&theme=tokyonight&hide_border=true&background=0D1117" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanupanchal26&theme=tokyonight" width="100%"/>
+
+</div>
 
 ### 📈 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬
 
