@@ -79,18 +79,14 @@ Contact: tanyapancha65@gmail.com
 ### 🟣 𝐏𝐚𝐜𝐦𝐚𝐧 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanupanchal26/Tanupanchal26/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanupanchal26/Tanupanchal26/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tanupanchal26/Tanupanchal26/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://github.com/abozanona/pacman-contribution-graph/raw/output/pacman-contribution-graph-dark.svg?username=Tanupanchal26">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://github.com/abozanona/pacman-contribution-graph/raw/output/pacman-contribution-graph.svg?username=Tanupanchal26">
+  <img alt="pacman contribution graph" 
+       src="https://github.com/abozanona/pacman-contribution-graph/raw/output/pacman-contribution-graph.svg?username=Tanupanchal26">
 </picture>
 
-<br/>
-
-### 📊 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡
-
-<a href="https://github.com/Tanupanchal26">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanupanchal26&bg_color=0D1117&color=7C3AED&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%">
-</a>
 
 <br/>
 
@@ -106,6 +102,8 @@ Contact: tanyapancha65@gmail.com
 <img src="https://streak-stats.demolab.com?user=Tanupanchal26&theme=tokyonight&hide_border=true" width="49%"/>
 
 <br/><br/>
+### 📊 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanupanchal26&bg_color=0D1117&color=7C3AED&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
