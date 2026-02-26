@@ -76,19 +76,7 @@ Contact: tanyapancha65@gmail.com
 
 <div align="center">
 
-### 🟣 𝐏𝐚𝐜𝐦𝐚𝐧 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github.com/abozanona/pacman-contribution-graph/raw/output/pacman-contribution-graph-dark.svg?username=Tanupanchal26">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://github.com/abozanona/pacman-contribution-graph/raw/output/pacman-contribution-graph.svg?username=Tanupanchal26">
-  <img alt="pacman contribution graph" 
-       src="https://github.com/abozanona/pacman-contribution-graph/raw/output/pacman-contribution-graph.svg?username=Tanupanchal26">
-</picture>
-
-
-<br/>
 
 
 
@@ -108,6 +96,11 @@ Contact: tanyapancha65@gmail.com
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanupanchal26&bg_color=0D1117&color=7C3AED&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
+
+![Pacman Graph](https://raw.githubusercontent.com/Tanupanchal26/Tanupanchal26/output/pacman-contribution-graph-dark.svg)
+
+
+<br/>
 
 ### 📈 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬
 
