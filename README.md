@@ -160,7 +160,7 @@ Contact: tanyapancha65@gmail.com
 
 **𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔:** `React` `TailwindCSS` `Framer Motion` `Netlify`
 
-<a href="https://tanucodes.netlify.app"><img src="https://img.shields.io/badge/Visit_Site-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://tanyapanchal.vercel.app/"><img src="https://img.shields.io/badge/Visit_Site-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a2e"/></a>
 
 </div>
 
