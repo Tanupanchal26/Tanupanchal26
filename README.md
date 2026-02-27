@@ -7,8 +7,8 @@
 ### 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝙱𝚎𝚊𝚞𝚝𝚒𝚏𝚞𝚕 𝚆𝚎𝚋 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜
 
 <p>
-  <a href="https://tanucodes.netlify.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-FF6B6B?style=for-the-badge&labelColor=1a1a2e"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=1a1a2e"/></a>
+  <a href="https://tanyapanchal.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-FF6B6B?style=for-the-badge&labelColor=1a1a2e"/></a>
+  <a href="https://www.linkedin.com/in/tanya-panchal-142192322/"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=1a1a2e"/></a>
   <a href="mailto:tanyapancha65@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&labelColor=1a1a2e"/></a>
 </p>
 
