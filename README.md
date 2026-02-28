@@ -83,14 +83,23 @@ Contact: tanyapancha65@gmail.com
 
 <br/><br/>
 
-### 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
+### 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭u𝐬
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tanupanchal26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 
-<img src="https://streak-stats.demolab.com?user=Tanupanchal26&theme=tokyonight&hide_border=true" width="49%"/>
 
-<br/><br/>
-### 📊 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tanupanchal26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanupanchal26&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+ 📊 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanupanchal26&bg_color=0D1117&color=7C3AED&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" width="100%"/>
