@@ -128,7 +128,7 @@ Contact: tanyapancha65@gmail.com
 
 <p align="center">
   <a href="https://github.com/Tanupanchal26">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanupanchal26&theme=tokyonight" alt="Stats" width="49%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/status?username=Tanupanchal26&theme=tokyonight" alt="Status" width="49%">
   </a>
   <a href="https://github.com/Tanupanchal26">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanupanchal26&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="49%">
