@@ -83,31 +83,32 @@ Contact: tanyapancha65@gmail.com
 
 <br/><br/>
 
-### 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭u𝐬
+## 𝟎𝟑 | 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬 (𝟐𝟎𝟐𝟔)
 
+<div align="center">
 
+### 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐮𝐬
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tanupanchal26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Tanupanchal26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanupanchal26&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=Tanupanchal26&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 <br/>
- 📊 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡
 
+### 📊 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanupanchal26&bg_color=0D1117&color=7C3AED&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ![Pacman Graph](https://raw.githubusercontent.com/Tanupanchal26/Tanupanchal26/output/pacman-contribution-graph-dark.svg)
-
 
 <br/>
 
@@ -134,14 +135,6 @@ Contact: tanyapancha65@gmail.com
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanupanchal26&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="49%">
   </a>
 </p>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-</div>
 
 ---
 
