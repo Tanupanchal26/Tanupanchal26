@@ -76,26 +76,15 @@ Contact: tanyapancha65@gmail.com
 
 <div align="center">
 
-
-
-
-
-
-<br/><br/>
-
-## 𝟎𝟑 | 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬 (𝟐𝟎𝟐𝟔)
-
-<div align="center">
-
 ### 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐮𝐬
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Tanupanchal26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Tanupanchal26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%"/>
     </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Tanupanchal26&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <td width="50%">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tanupanchal26&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
     </td>
   </tr>
 </table>
