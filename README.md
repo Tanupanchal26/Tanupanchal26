@@ -127,23 +127,12 @@ Contact: tanyapancha65@gmail.com
 
 ---
 
-## 𝟎𝟒 | 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+## 𝟎𝟒 | PORTFOLIO
 
 <div align="center">
 
-### 🚗 [**𝙷𝚎𝚛𝚁𝚒𝚍𝚎𝚜 - 𝚆𝚘𝚖𝚎𝚗'𝚜 𝚁𝚒𝚍𝚎 𝚂𝚑𝚊𝚛𝚒𝚗𝚐 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖**](https://github.com/Tanupanchal26/herrides)
 
-*𝘈 𝘴𝘢𝘧𝘦 𝘢𝘯𝘥 𝘴𝘦𝘤𝘶𝘳𝘦 𝘳𝘪𝘥𝘦-𝘴𝘩𝘢𝘳𝘪𝘯𝘨 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮 𝘥𝘦𝘴𝘪𝘨𝘯𝘦𝘥 𝘦𝘹𝘤𝘭𝘶𝘴𝘪𝘷𝘦𝘭𝘺 𝘧𝘰𝘳 𝘸𝘰𝘮𝘦𝘯*
-
-**𝙺𝚎𝚢 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜:** Real-time GPS Tracking • Secure Payments • Socket.io Notifications • Safety Features • Rating System
-
-**𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔:** `React` `Node.js` `Express` `MongoDB` `Socket.io` `Google Maps API`
-
-<a href="https://github.com/Tanupanchal26/herrides"><img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
-
----
-
-### 💼 [**𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘**](https://tanucodes.netlify.app)
+### 💼 [**𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘**](https://panchaltanya.netlify.app/)
 
 *𝘔𝘰𝘥𝘦𝘳𝘯 𝘱𝘰𝘳𝘵𝘧𝘰𝘭𝘪𝘰 𝘸𝘦𝘣𝘴𝘪𝘵𝘦 𝘴𝘩𝘰𝘸𝘤𝘢𝘴𝘪𝘯𝘨 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘢𝘯𝘥 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭 𝘫𝘰𝘶𝘳𝘯𝘦𝘺*
 
